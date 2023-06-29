@@ -1,5 +1,5 @@
-# Fill-the-board
+# Fill-the-Board
 
-Rules: You have to go through each field only once and thus fill the entire board across 5 levels.
+In this game you have 5 levels to complete. Rules are simple, you have to go through every field on the board but only once, this way you are finishing level.
 
-Display used in this project is 128x64 i2c OLED.
+Display used in this project is 128x64 i2c OLED. If you want to use the buzzer to get sound effect the resistor should be 1.5k ohm.
